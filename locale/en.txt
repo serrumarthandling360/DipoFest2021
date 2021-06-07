@@ -1,0 +1,14 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = DIPOFEST 2021
+
+## Media
+
+### Title
+panorama_E34FB7DC_E864_0DF9_41E7_545EBF36E73B.label = dipo 1
+panorama_E600E017_E87C_0277_41E9_223ACDCA141A.label = dipo 2
