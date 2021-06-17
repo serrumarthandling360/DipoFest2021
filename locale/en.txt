@@ -36,4 +36,7 @@ panorama_3F7C50F8_185E_727F_4197_10987DA4DB0E.label = dipo r3
 ### URL
 PopupWebFrameBehaviour_0925C757_17D7_FFB1_4174_F1FC5B97BADD.url = https://www.google.com/maps/embed?pb=!4v1623899468810!6m8!1m7!1s7kmSKF4jXWr8C3C6os0Lxw!2m2!1d-6.195586656495621!2d106.8833749973995!3f293.3182589398689!4f0.4897378230119074!5f0.7820865974627469
 PopupWebFrameBehaviour_09ABA98D_17D9_9291_41A7_06F6C551E8FA.url = https://www.google.com/maps/embed?pb=!4v1623899468810!6m8!1m7!1s7kmSKF4jXWr8C3C6os0Lxw!2m2!1d-6.195586656495621!2d106.8833749973995!3f293.3182589398689!4f0.4897378230119074!5f0.7820865974627469
+PopupWebFrameBehaviour_4850FBE5_185A_B691_4195_0DDB37835499.url = https://www.instagram.com/p/CHEiJoHrj3v/embed
 PopupWebFrameBehaviour_524A79B1_19CE_72F1_41AE_F42077717D63.url = https://www.instagram.com/p/CQDsu-psyHi/embed
+PopupWebFrameBehaviour_55FC5F69_1836_8F91_41B8_863DBEA0C8B2.url = https://www.instagram.com/p/CHEiJoHrj3v/embed
+PopupWebFrameBehaviour_56683713_1856_9FB1_41B0_49D18FD33EF2.url = https://www.instagram.com/p/CQDsu-psyHi/embed
