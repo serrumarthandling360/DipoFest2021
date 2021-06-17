@@ -34,6 +34,12 @@ panorama_3F7C50F8_185E_727F_4197_10987DA4DB0E.label = dipo r3
 ## Action
 
 ### URL
+LinkBehaviour_44C10D3E_184E_93F3_41B7_51E381B7B768.source = https://api.whatsapp.com/send/?phone=6281359224565&text&app_absent=0
+LinkBehaviour_465E0981_184A_9291_4197_E9F385B8F31D.source = https://api.whatsapp.com/send/?phone=6281291496295&text&app_absent=0
+LinkBehaviour_46B28F11_184E_8FB1_41B2_6A5213FF6DC1.source = https://api.whatsapp.com/send/?phone=6281359224565&text&app_absent=0
+LinkBehaviour_4789F489_184B_B291_41B1_F014A73E577C.source = https://api.whatsapp.com/send/?phone=6281514496642&text&app_absent=0
+LinkBehaviour_4E8BC933_184B_B3F1_41B5_4F45B1ECB5AA.source = https://api.whatsapp.com/send/?phone=6281291496295&text&app_absent=0
+LinkBehaviour_4EDA8933_1876_93F1_4193_52AE92366232.source = https://api.whatsapp.com/send/?phone=6281514496642&text&app_absent=0
 PopupWebFrameBehaviour_0925C757_17D7_FFB1_4174_F1FC5B97BADD.url = https://www.google.com/maps/embed?pb=!4v1623899468810!6m8!1m7!1s7kmSKF4jXWr8C3C6os0Lxw!2m2!1d-6.195586656495621!2d106.8833749973995!3f293.3182589398689!4f0.4897378230119074!5f0.7820865974627469
 PopupWebFrameBehaviour_09ABA98D_17D9_9291_41A7_06F6C551E8FA.url = https://www.google.com/maps/embed?pb=!4v1623899468810!6m8!1m7!1s7kmSKF4jXWr8C3C6os0Lxw!2m2!1d-6.195586656495621!2d106.8833749973995!3f293.3182589398689!4f0.4897378230119074!5f0.7820865974627469
 PopupWebFrameBehaviour_4850FBE5_185A_B691_4195_0DDB37835499.url = https://www.instagram.com/p/CHEiJoHrj3v/embed
