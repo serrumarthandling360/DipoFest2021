@@ -9,6 +9,10 @@ tour.name = DIPOFEST 2021
 
 ## Skin
 
+### Dropdown
+DropDown_445F4EA5_2970_7206_41BB_11484B7B40E1.prompt = M E N U
+DropDown_46ED7FDB_2970_9202_41BC_71EECBBB7AD2.prompt = M E N U
+
 ### Label
 Label_0A786E35_17D6_91F1_41B7_49AD000A0EAF.text = Copyright DIPOFEST
 Label_0A786E35_17D6_91F1_41B7_49AD000A0EAF_mobile.text = Copyright DIPOFEST
@@ -16,8 +20,20 @@ Label_0A786E35_17D6_91F1_41B7_49AD000A0EAF_mobile.text = Copyright DIPOFEST
 ## Media
 
 ### Title
-panorama_1B512435_17CA_71F1_419F_9B006EDC0126.label = dipo 1
+panorama_04350791_2AB0_B21E_41C5_353D51808616.label = pameran seni rupa dipofest 11
+panorama_081943F2_2B9F_F202_41C0_38237136FF8A.label = R0010747
+panorama_0B4F6814_2B90_9E06_41C2_064EA4455670.label = pameran seni rupa dipofest 10
+panorama_14271FA2_2A90_7202_41B5_85AEF18955C7.label = pameran seni rupa dipofest 14
+panorama_16036F90_2A90_B21E_41C4_83A99B54DC2A.label = pameran seni rupa dipofest 14
+panorama_1B512435_17CA_71F1_419F_9B006EDC0126.label = BAZAAR
+panorama_1B567793_2AB3_9202_41C3_2FB03D09CE24.label = pameran seni rupa dipofest 12
 panorama_1B8B9C78_17CE_727F_417F_978202444A1A.label = R0010750
+panorama_1F4A82A6_2A90_9202_4181_AFFE4EFC9556.label = pameran seni rupa dipofest 5
+panorama_301C1445_2A91_9606_419E_4542F464D421.label = pameran seni rupa dipofest 9
+panorama_30A2A3A1_2A90_923E_41BB_64B5C82AD2C3.label = pameran seni rupa dipofest 6
+panorama_35626621_2B91_923E_41B8_FC3815A7DF20.label = pameran seni rupa dipofest 16
+panorama_3CF01260_2990_B23E_41B0_0A00E8C77937.label = pameran seni rupa dipofest 3
+panorama_3D4BE1BE_2990_6E02_41A1_2D48C6200B14.label = pameran seni rupa dipofest 4
 panorama_3E88A56F_1859_B391_41A8_1E76FC719CB2.label = dipo r12
 panorama_3E89BCBE_1859_92F3_41AC_11CC73BC25CB.label = dipo r13
 panorama_3E9E6B46_1859_B793_41B6_2050642BF3E1.label = dipo r10
@@ -30,8 +46,55 @@ panorama_3EEF184A_185E_9193_4196_7C44E158E6B2.label = dipo r4
 panorama_3EF75349_1859_F791_41B6_AC2BE313E12D.label = dipo r11
 panorama_3F1C9AFB_185F_B671_41B7_A1CFC1FC69FF.label = dipo 2
 panorama_3F7C50F8_185E_727F_4197_10987DA4DB0E.label = dipo r3
+panorama_40636D50_2990_B61E_41B8_F13F6AD2D34B.label = PMAERAN
+panorama_419ED497_2991_9602_41C5_71F5767ACC3D.label = pameran seni rupa dipofest 18.
+panorama_5BEFF23C_299F_9206_41BD_44A00FFF894F.label = pameran seni rupa dipofest 17.Denoiser
+panorama_706A2F01_2990_93FE_41A5_2F82110149FD.label = pameran seni rupa dipofest 19
+panorama_76AE2EDE_2991_F202_41AC_B5075C5689E4.label = pameran seni rupa dipofest 20
+panorama_A19D8C71_2EF7_B61E_41BC_BCD70B20A185.label = pameran seni rupa dipofest 15
+video_1CD0045A_2A90_9602_41C2_998D23EEE549.label = Shira Sahasika PD_video
+video_334A07B7_2AB0_9202_41BF_25E41D588E0A.label = proses
+video_3697DE65_2B70_B206_4186_B81D32D33FB5.label = Proses gambar shafira salsabila 
+video_3738E998_269A_5AD9_4191_BD063EE64B0E.label = VID-20210618-WA0015
+video_3D03A17D_268A_4A58_41A5_825FA7C30E3A.label = proses
+video_4E226482_29F0_9602_417F_5218F540F64D.label = Prajna_video proses
+video_60411A39_2A90_720E_41B9_AFBF45DD5D74.label = Fadhillah Arifin - Titrasi asam basa - menentukan kadar
+video_6067CFEE_2A90_F202_41BF_E431A7853BE4.label = Fadhillah Arifin - Makromolekul
+video_60E12DFC_2A91_9606_4191_34058FECFFDE.label = Muhammad Nico - Manusia Purba Indonesia
+video_61508890_2A90_7E1E_41BB_47DEEFA5188B.label = Fadhillah Arifin - Teori asam dan basa
+video_670FA8E5_2A90_7E06_41C3_4EF2C298FB05.label = Riandi - Siklus batuan
+video_6729C96C_2A90_7E07_41C3_F5852FA272B8.label = Zulkarnain - Revolusi Industri-1
+video_674605C1_2A91_F67E_4179_456992063E3F.label = Riandi - Konsep geografi-360p30
+video_6767674B_2A90_B202_41C5_AD06462762DE.label = Zulkarnain - Abad kegelapan Eropa
+video_676AD1CE_2A97_EE02_41C0_2E7D1202D6E0.label = Zulkarnain - Reformasi gereja
+video_67C85A4E_2A90_B202_41AF_7F680C1FDA2A.label = zulkarnain merkantilisme
+video_A2C7BC43_2EF0_9602_41A6_678648633E2F.label = Lautan Hampa_Afifah N.F
+video_B6F71808_2F90_9E0E_41B2_E5CDEB801AFC.label = video proses
 
 ## Action
+
+### PDF
+PopupPDFBehaviour_506E1E10_2E90_B21E_4186_B3DBEBEA661D.url = files/Gelombang stasioner_en.pdf
+PopupPDFBehaviour_5101D3D2_2E91_B202_41BB_AFB5C0F1F052.url = files/Rencana pemasaran dan media pemasaran_en.pdf
+PopupPDFBehaviour_539FA755_2E97_9206_41BE_065BF95025E6.url = files/Indy - strategi pemasaran dan mengenal konsumen dan pesaing_en.pdf
+PopupPDFBehaviour_540AF43C_2E90_B606_41BD_A0272B2362FE.url = files/Momentum, impuls dan tumbukan_en.pdf
+PopupPDFBehaviour_54FE402B_2E90_6E02_4186_FF0AEE634DD4.url = files/Gelombang bunyi_en.pdf
+PopupPDFBehaviour_55FF4D6B_2E93_9602_41BD_9C58FD67F813.url = files/Nico Abdullah N - peradaban sungai indus ps 1_en.pdf
+PopupPDFBehaviour_56081E35_2E90_F206_419C_C5282869AFB6.url = files/Rencana pemasaran dan media pemasaran_en.pdf
+PopupPDFBehaviour_56EB5126_2E91_AE02_41AD_987CB1919A41.url = files/Proklamasi_en.pdf
+PopupPDFBehaviour_57BB04E2_2970_F602_41C0_98BAE484AC64.url = files/Momentum, impuls dan tumbukan_en.pdf
+PopupPDFBehaviour_57F4B784_2973_F206_41C0_0CF9751C67CC.url = files/Indy - strategi pemasaran dan mengenal konsumen dan pesaing_en.pdf
+PopupPDFBehaviour_59E2DB54_2E91_B207_4179_A376536FCADA.url = files/Proklamasi_en.pdf
+PopupPDFBehaviour_5DD6D6E1_296F_923E_4178_394C7156F055.url = files/Nico Abdullah N - peradaban sungai indus ps 1_en.pdf
+PopupPDFBehaviour_718848A5_2990_BE06_41BD_BFF31AF1C4D6.url = files/Gelombang bunyi_en.pdf
+PopupPDFBehaviour_7E28DF47_2991_B202_41C2_1478D1C168C0.url = files/Gelombang stasioner_en.pdf
+PopupPDFBehaviour_A343B14E_2E90_EE02_41BC_04AFF0CDF213.url = files/Penilaian pemasaran_en.pdf
+PopupPDFBehaviour_A41CDF50_2E90_F21E_41C2_C14B6618E993.url = files/Gelombang bunyi_en.pdf
+PopupPDFBehaviour_A488DAE3_2EB3_B202_41BD_0125471B70CB.url = files/Perpindahan kalor_en.pdf
+PopupPDFBehaviour_A4D49F3D_2E90_F206_41A8_036D1D9F6E4C.url = files/Percobaan virtual fisika_en.pdf
+PopupPDFBehaviour_A7523680_2E90_92FF_41A4_104C78BA55D6.url = files/Perpindahan kalor_en.pdf
+PopupPDFBehaviour_A9F8D244_2EB3_F206_41C0_2735FB1C481D.url = files/Gelombang bunyi_en.pdf
+PopupPDFBehaviour_ADBAF942_2EB0_7E02_41AA_9206B3C611D6.url = files/Percobaan virtual fisika_en.pdf
 
 ### URL
 LinkBehaviour_44C10D3E_184E_93F3_41B7_51E381B7B768.source = https://api.whatsapp.com/send/?phone=6281359224565&text&app_absent=0
